@@ -57,6 +57,3 @@ In 2019 i switched my profession and life into Frontend development and all seco
 ### Testing:
   ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  
-<br />
-<br />
